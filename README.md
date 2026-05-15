@@ -21,4 +21,12 @@ https://transactions-api-noel-1fca3defca08.herokuapp.com/
 
 Screenshots of Postman making requests to your deployed application
 
-Screenshotds
+Get:
+<img width="1440" height="900" alt="Screenshot 2026-05-14 at 10 35 36 PM" src="https://github.com/user-attachments/assets/896c8223-d6c7-4116-98d2-4f35575b7148" />
+
+Post:
+<img width="1440" height="900" alt="Screenshot 2026-05-14 at 10 40 15 PM" src="https://github.com/user-attachments/assets/bd50227e-5c88-46fe-85fa-af1d873e46a2" />
+
+
+
+
